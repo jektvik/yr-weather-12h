@@ -1,4 +1,4 @@
-Get rainmeter to display desktop widgets at : https://www.rainmeter.net/
+Download rainmeter to display desktop widgets at : https://www.rainmeter.net/
 
 This skin shows temperature, real feel, and expected rainfall for the next 12 hours based on YR.no hourly forecast.
 
