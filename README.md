@@ -1,6 +1,6 @@
 Download rainmeter to display desktop widgets at : https://www.rainmeter.net/
 
-This skin shows temperature, real feel, and expected rainfall for the next 12 hours based on YR.no hourly forecast.
+The yr-weather-12h skin shows temperature, real feel, and expected rainfall for the next 12 hours based on YR.no hourly forecast.
 
 ![image](https://github.com/user-attachments/assets/89259e88-1399-4253-97a3-edd1ed90dbd4)
 
